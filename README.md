@@ -19,6 +19,9 @@ I use Linux and macOS day to day, depending on the task. I like understanding ho
 ## My recent work
 
 [CarpenTech](https://carpentech.webjuniors.org/)
+
+
+
 [Rusu | Portofolio](https://rusu.is-a.dev/)
 
 ## Get in touch
