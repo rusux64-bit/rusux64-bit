@@ -24,6 +24,10 @@ I use Linux and macOS day to day, depending on the task. I like understanding ho
 
 [Rusu | Portofolio](https://rusu.is-a.dev/)
 
+
+
+[Ripcord](https://rusu.is-a.dev/)
+
 ## Get in touch
 
 Feel free to open an issue or reach out if you want to talk about self-hosting, networking, or C++. I'm always happy to learn from people who know more than I do.
