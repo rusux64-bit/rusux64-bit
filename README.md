@@ -26,7 +26,7 @@ I use Linux and macOS day to day, depending on the task. I like understanding ho
 
 
 
-[Ripcord](https://rusu.is-a.dev/)
+[Ripcord](https://carpentech.webjuniors.org/)
 
 ## Get in touch
 
