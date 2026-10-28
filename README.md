@@ -10,7 +10,7 @@ I'm a self-hosting and networking enthusiast who spends a lot of time tinkering 
 
 ## What I'm learning
 
-Right now I'm working on C++. I'm still early on, so most of what you'll find here is practice projects, small experiments, and things I broke and fixed along the way.
+I am currently focusing on Web Development. This space features my core learning projects, technical experiments, and hands-on problem solving as I continue to build my skills.
 
 ## My setup
 
